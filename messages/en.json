@@ -1,6 +1,5 @@
 {
-  "countdown.title": "Countdown",
-  "editor.countdown-title.title": "Countdown Title",
-  "editor.countdown.title": "Countdown",
-  "editor.countdown.description": "Countdown component"
+  "freeShippingBar.title": "Countdown",
+  "editor.freeShippingBar.title": "Countdown",
+  "editor.freeShippingBar.description": "Countdown component"
 }

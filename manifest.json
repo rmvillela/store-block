@@ -1,9 +1,9 @@
 {
-  "vendor": "vtex",
-  "name": "countdown",
-  "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
+  "vendor": "peopleio",
+  "name": "people-free-shipping-bar",
+  "version": "1.0.0",
+  "title": "Free Shipping Bar",
+  "description": "Free Shipping Bar component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
@@ -11,10 +11,16 @@
     "react": "3.x"
   },
   "dependencies": {
+    "vtex.store-resources": "0.x",
+    "vtex.native-types": "0.x",
+    "vtex.checkout-resources": "0.x",
+    "vtex.search-graphql": "0.x",
+    "vtex.checkout-graphql": "0.x",
     "vtex.styleguide": "9.x",
     "vtex.css-handles": "0.x",
-    "vtex.search-graphql": "0.x",
-    "vtex.product-context": "0.x"
+    "vtex.order-manager": "0.x",
+    "vtex.order-items": "0.x",
+    "vtex.checkout-summary": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

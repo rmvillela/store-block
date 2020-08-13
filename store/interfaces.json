@@ -1,8 +1,5 @@
 {
-  "countdown": {
-    "component": "Countdown"
-  },
-  "countdown.title": {
-    "component": "Title"
+  "people-free-shipping-bar": {
+    "component": "FreeShippingBar"
   }
 }
